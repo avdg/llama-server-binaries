@@ -10,7 +10,7 @@ The release notes also includes compilation information and references to the or
 ./llama-server.exe --model <path to model>
 ```
 
-Once the server is running, the server should be available at `localhost:8080`
+Once the server is running, the server should be available at http://localhost:8080/
 
 You can add more options, which you can see if you run `./llama-server.exe --help`
 
